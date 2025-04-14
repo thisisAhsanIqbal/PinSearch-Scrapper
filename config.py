@@ -1,5 +1,5 @@
 # config.py
 
-EMAIL = "seo.akhuwat@gmail.com"
-PASSWORD = "NZcFuR_g7h9!~w6"
+EMAIL = "youremail@gmail.com"
+PASSWORD = "yourPassword"
 KEYWORD_FILE = "data.txt"
